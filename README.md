@@ -21,5 +21,5 @@
 # Screenshot Hasil Kerja
 
 1. Registrasi Akun (Swagger UI)
-
+![alt text](path/ke/gambar.png)
 2. Tampilan Login & Peta Utama
