@@ -21,5 +21,5 @@
 # Screenshot Hasil Kerja
 
 1. Registrasi Akun (Swagger UI)
-![alt text](path/ke/gambar.png)
+![alt text](https://github.com/32gz/Praktikum9_SIG_123140143_Khairul-Rijal-Syauqi/blob/main/Screenshot%202026-04-22%20183305.png)
 2. Tampilan Login & Peta Utama
