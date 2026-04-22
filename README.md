@@ -25,4 +25,4 @@
 
 
 2. Tampilan Login & Peta Utama
-![alt text](https://github.com/32gz/Praktikum9_SIG_123140143_Khairul-Rijal-Syauqi/blob/main/Screenshot%202026-04-22%20183305.png)
+![alt text](https://github.com/32gz/Praktikum9_SIG_123140143_Khairul-Rijal-Syauqi/blob/main/Screenshot%202026-04-22%20183039.png)
