@@ -1,4 +1,4 @@
-Cara Setup & Instalasi
+##Cara Setup & Instalasi
 
 1. Database (PostgreSQL/PostGIS)
   - Pastikan ekstensi PostGIS sudah terpasang: CREATE EXTENSION postgis;
